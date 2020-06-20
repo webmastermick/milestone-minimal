@@ -1,0 +1,124 @@
+.content {
+      max-width: 1500px;
+      margin: auto;
+    }
+
+header {
+  text-align: right;
+  display: inline-block;
+}
+
+nav {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24pt;
+  font-weight: bold;
+  word-spacing: 25px;
+}
+
+.welcome {
+  height: 800px;
+  text-align: left;
+  margin: auto;
+}
+
+.hello {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: bold;
+  font-size: 36pt;
+}
+
+.name {
+  color: #ff654a;
+  display: inline-block;
+}
+
+.intro {
+  font-family: 'Open Sans', serif;
+}
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: bold;
+  font-size: 64pt;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 48pt;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 36pt;
+  font-weight: bold;
+  text-align: center;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+  font-size: 24pt;
+  text-align: center;
+  word-wrap: normal;
+}
+
+.about-me {
+  background-color: #ff654a;
+  color: white;
+  height: 850px;
+  border-width: 5px;
+  border: none;
+  padding-top: 100px;
+  padding-bottom: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-left: 150px;
+  padding-right: 150px;
+  word-wrap: normal;
+}
+
+.full-width {
+  height: 800px;
+  border-width: 1px;
+  border: none;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+}
+
+.third-width {
+  width: 500px;
+  height: auto;
+  display: inline-block;
+  text-decoration-color: #b7b7b7;
+  text-align: center;
+  float: left;
+  padding-top: 50px;
+  padding-bottom: 150px;
+
+}
+
+.contact {
+  height: 650px;
+}
+
+.contact-me {
+  background-color: #ff654a;
+  color: white;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+footer {
+  background-color: #ff654a;
+  color: white;
+  text-align: center;
+  font: font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+  margin-top: -25px;
+}
